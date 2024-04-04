@@ -34,8 +34,8 @@ body, html {
     }
         .top-sidebar > img {
             
-            height: 4em;
-            width: 4em;
+            height: 40px;
+            width: 40px;
             justify-self: center;
 
         }
